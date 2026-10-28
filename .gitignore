@@ -1,0 +1,11 @@
+build/
+build-*/
+dist/
+external/
+deps/
+stage/
+stage-*/
+*.zip
+*.sha256
+.DS_Store
+build*.log
